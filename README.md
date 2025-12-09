@@ -1,4 +1,4 @@
-# Property Management System 🏠
+# Property Management System 
 
 Full-stack web application για τη διαχείριση ακινήτων και χρηστών, υλοποιημένη με **Java Spring**.
 
