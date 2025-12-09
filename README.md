@@ -6,11 +6,11 @@ Full-stack web application για τη διαχείριση ακινήτων κ�
 
 ---
 
-✔ User Authentication (login / roles)  
-✔ CRUD Operations για ακίνητα  
-✔ CRUD Operations για χρήστες  
-✔ Αποθήκευση δεδομένων σε βάση δεδομένων  
-✔ Βασικό Dashboard για overview
+- User Authentication (login / roles)  
+- CRUD Operations για ακίνητα  
+- CRUD Operations για χρήστες  
+- Αποθήκευση δεδομένων σε βάση δεδομένων  
+- Βασικό Dashboard για overview
 
 ---
 
