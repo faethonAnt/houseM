@@ -22,8 +22,6 @@ Full-stack web application για τη διαχείριση ακινήτων κ�
 
 ### Frontend
 - HTML5
-- CSS3
-- JavaScript
 
 ### Database
 - MySQL
